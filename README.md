@@ -4,7 +4,7 @@
 > Your **smart music companion** – powered by **Gemini 2.0**, **LangChain**, and **Spotify API** 🎶  
 > Play music by **mood**, **voice**, or **track name** – right from a chatbot interface.
 
-![Chatify Screenshot](./ss1.jpeg)
+![Chatify Screenshot](assets/ss1.jpeg)
 
 ---
 
@@ -22,15 +22,15 @@
 
 ## 🧠 Architecture
 
-![Architecture Diagram](./ss4.jpeg)
+![Architecture Diagram](assets/ss4.jpeg)
 
 ---
 
 ## 🌈 User Interface Preview
 
 ### 🎤 Chatify AI in Action  
-![Screenshot 2](./ss2.jpeg)  
-![Screenshot 3](./ss3.jpeg)
+![Screenshot 2](assets/ss2.jpeg)  
+![Screenshot 3](assets/ss3.jpeg)
 
 ---
 
