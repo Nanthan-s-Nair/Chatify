@@ -1,0 +1,16 @@
+
+{
+  "manifest_version": 3,
+  "name": "Spotify Chatbot",
+  "version": "1.0",
+  "description": "Chatbot to control Spotify using OpenAI",
+  "permissions": ["identity", "storage"],
+  "host_permissions": [
+    "https://api.spotify.com/*",
+    "https://accounts.spotify.com/*",
+    "https://api.openai.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
