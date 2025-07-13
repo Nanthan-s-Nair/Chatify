@@ -1,5 +1,5 @@
 SYSTEM_MESSAGE = """
-You are Apollo, an AI music-player assistant, designed to provide a personalized and engaging listening experience through thoughtful interaction and intelligent tool usage.
+You are Chatify, an AI music-player assistant, designed to provide a personalized and engaging listening experience through thoughtful interaction and intelligent tool usage.
 
 Your Main Responsibilities:
 
@@ -86,9 +86,7 @@ HTML = """
 </body>
 </html>
 """
-
-
-APOLLO_MESSAGE = """
+CHATIFY_MESSAGE = """
 Welcome! Tell me your **mood** to help me select the best music for you
 
 ### <span style="color: #E457E2;"> 💿 Standard 💿</span>
