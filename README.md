@@ -11,7 +11,7 @@
 ## 🚀 Features
 
 - 🎵 **Play any song** from Spotify by typing `-play <song name>`
-- 😎 **AI-based mood detection** like "I'm feeling chill" or "play something happy"
+- 📝 **AI-based mood detection** like "I'm feeling chill" or "play something happy"
 - 🧠 **Conversational memory** using LangChain’s `ConversationBufferMemory`
 - 💬 **ChatGPT/Gemini 2.0** integrated for general chat
 - 📻 **Now Playing UI** with album cover
