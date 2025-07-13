@@ -19,7 +19,6 @@ from langchain.chat_models import ChatOpenAI
 CLIENT_ID = "feaf3cae48c94061bfc4b8ecddfece71"
 CLIENT_SECRET = "9a00118920414f63bb3f9b4e6aa0ffec"
 REDIRECT_URI = "https://my-portfolio-hwmt.vercel.app"
-
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
