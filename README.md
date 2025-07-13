@@ -84,11 +84,6 @@ To let others download:
 - Create a `.zip` of the `chrome-extension` folder and host it on your website  
 - Add a **Download Extension** button with the `.zip` link
 
----
-
-## 📦 Download the Extension
-
-👉 [Click here to download the extension ZIP](#) *(Link to be added once hosted)*
 
 ---
 
